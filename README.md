@@ -1,16 +1,18 @@
 
 # HTML5 Dimension Portfolio
 
-This is a portfolio site taken as a template from HTML5 UP. The site is fully responsive. 
-Tools used to make this site was HTML and jQuery.
+This is a page modal-ized portfolio site taken as a template from HTML5 UP. The site is simple, fully
+responsive, and kitted out with all the usual pre-styled elements you'd expect.Tools used to make this site was HTML and jQuery. 
 
-Here is a deployed demo: <a href="" target="_blank" >VIEW DEMO HERE!</a>.  
-<img src="" alt="sketch" />
-
-
-Credits:
+# Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
+
+Here is a deployed demo: <a href="https://github.com/gusmontoya/HTML5-Dimension-Portfolio/blob/main/images/dimension-profile.png" target="_blank" >VIEW DEMO HERE!</a>.  
+<img src="" alt="sketch" />
+
+
+
