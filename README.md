@@ -11,8 +11,8 @@ responsive, and kitted out with all the usual pre-styled elements you'd expect.T
 	Other:
 		jQuery (jquery.com)
 
-Here is a deployed demo: <a href="https://github.com/gusmontoya/HTML5-Dimension-Portfolio/blob/main/images/dimension-profile.png" target="_blank" >VIEW DEMO HERE!</a>.  
-<img src="" alt="sketch" />
+Here is a deployed demo: <a href="https://angry-mclean-8a91cb.netlify.app/" target="_blank" >VIEW DEMO HERE!</a>.  
+<img src="https://github.com/gusmontoya/HTML5-Dimension-Portfolio/blob/main/images/dimension-profile.png" alt="sketch" />
 
 
 
